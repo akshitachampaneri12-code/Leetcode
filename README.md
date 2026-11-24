@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/akshitachampaneri12-code/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/akshitachampaneri12-code/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/akshitachampaneri12-code/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1929-concatenation-of-array](https://github.com/akshitachampaneri12-code/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/akshitachampaneri12-code/Leetcode/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/akshitachampaneri12-code/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
